@@ -1,2 +1,2 @@
 # Phillips_Christopher_Portfollio
-This is my Full Sail student portfolio
+This portfollio will contain my work and examples that I have created durning my education at Full Sail University.
